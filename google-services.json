@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "628538234863",
+    "firebase_url": "https://android-kotlin-firebase-debb2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "android-kotlin-firebase-debb2",
+    "storage_bucket": "android-kotlin-firebase-debb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628538234863:android:4d6cab32c4d8bbaef1881a",
+        "android_client_info": {
+          "package_name": "net.flow9.thisisKotlin.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628538234863-i6kiol18v5j7i1fpiqpmtqejddaeh2r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY2RwOuMqY-pG5UalsBfLT4nF6BFyqU20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628538234863-i6kiol18v5j7i1fpiqpmtqejddaeh2r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628538234863:android:1e73ddc04cc1a191f1881a",
+        "android_client_info": {
+          "package_name": "net.flow9.thisisKotlin.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628538234863-i6kiol18v5j7i1fpiqpmtqejddaeh2r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY2RwOuMqY-pG5UalsBfLT4nF6BFyqU20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628538234863-i6kiol18v5j7i1fpiqpmtqejddaeh2r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628538234863:android:696031924eefcf18f1881a",
+        "android_client_info": {
+          "package_name": "net.flow9.thisiskotlin.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628538234863-i6kiol18v5j7i1fpiqpmtqejddaeh2r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY2RwOuMqY-pG5UalsBfLT4nF6BFyqU20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628538234863-i6kiol18v5j7i1fpiqpmtqejddaeh2r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
